@@ -1,4 +1,7 @@
+#Nicolás Castro 308251
+#!/bin/bash
 
+!/bin/bash
 mostrar_menu() {
     echo "============================="
     echo "      Menú de Opciones       "
